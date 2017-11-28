@@ -1,0 +1,861 @@
+06-05-2016 08:49:37        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 08:49:38        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+06-05-2016 08:49:38        CMD        GETDT<|>Connector Screwing@MDPS L1
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+06-05-2016 08:49:38        CMD        GETDT<|>Selective Soldering@MDPS L1
+AOI        BREAKDOWN,160222101321
+06-05-2016 08:49:38        CMD        GETDT<|>AOI@MDPS L1
+Flashing        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>Flashing@MDPS L1
+ICT        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>ICT@MDPS L1
+Conformal Coating        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>Conformal Coating@MDPS L1
+Curing Oven        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>Curing Oven@MDPS L1
+Thermal Pasting        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>Thermal Pasting@MDPS L1
+HSS        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>HSS@MDPS L1
+Cover Clinching        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>Cover Clinching@MDPS L1
+HT        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>HT@MDPS L1
+Cold Chamber        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>Cold Chamber@MDPS L1
+FT        RUNNING,
+06-05-2016 08:49:38        CMD        GETDT<|>FT@MDPS L1
+06-05-2016 08:49:38        CMD        GETEXP
+06-05-2016 08:49:38        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 08:49:38        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 08:49:38        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 08:49:38        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:38        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:38        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:38        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:38        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:39        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:39        RES        GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:39        RES        GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:39        RES        GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:39        RES        GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 08:49:39        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 09:16:54        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 09:16:54        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+06-05-2016 09:16:54        CMD        GETDT<|>Connector Screwing@MDPS L1
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+06-05-2016 09:16:54        CMD        GETDT<|>Selective Soldering@MDPS L1
+AOI        BREAKDOWN,160222101321
+06-05-2016 09:16:54        CMD        GETDT<|>AOI@MDPS L1
+Flashing        RUNNING,
+06-05-2016 09:16:54        CMD        GETDT<|>Flashing@MDPS L1
+ICT        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>ICT@MDPS L1
+Conformal Coating        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>Conformal Coating@MDPS L1
+Curing Oven        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>Curing Oven@MDPS L1
+Thermal Pasting        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>Thermal Pasting@MDPS L1
+HSS        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>HSS@MDPS L1
+Cover Clinching        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>Cover Clinching@MDPS L1
+HT        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>HT@MDPS L1
+Cold Chamber        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>Cold Chamber@MDPS L1
+FT        RUNNING,
+06-05-2016 09:16:55        CMD        GETDT<|>FT@MDPS L1
+06-05-2016 09:16:55        CMD        GETEXP
+06-05-2016 09:16:55        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:16:55        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 09:32:39        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 09:32:40        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+06-05-2016 09:32:40        CMD        GETDT<|>Connector Screwing@MDPS L1
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+06-05-2016 09:32:40        CMD        GETDT<|>Selective Soldering@MDPS L1
+AOI        BREAKDOWN,160222101321
+06-05-2016 09:32:40        CMD        GETDT<|>AOI@MDPS L1
+Flashing        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>Flashing@MDPS L1
+ICT        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>ICT@MDPS L1
+Conformal Coating        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>Conformal Coating@MDPS L1
+Curing Oven        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>Curing Oven@MDPS L1
+Thermal Pasting        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>Thermal Pasting@MDPS L1
+HSS        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>HSS@MDPS L1
+Cover Clinching        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>Cover Clinching@MDPS L1
+HT        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>HT@MDPS L1
+Cold Chamber        RUNNING,
+06-05-2016 09:32:40        CMD        GETDT<|>Cold Chamber@MDPS L1
+FT        RUNNING,
+06-05-2016 09:32:41        CMD        GETDT<|>FT@MDPS L1
+06-05-2016 09:32:41        CMD        GETEXP
+06-05-2016 09:32:41        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:32:41        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 09:32:44        CMD        GETDT<|>Selective Soldering@MDPS L1
+06-05-2016 09:32:44        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 09:32:47        CMD        GETDT<|>AOI@MDPS L1
+06-05-2016 09:32:49        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 09:32:59        CMD        GETDT<|>Flashing@MDPS L1
+06-05-2016 09:32:59        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:03        CMD        GETDT<|>ICT@MDPS L1
+06-05-2016 09:33:03        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:03        CMD        GETDT<|>Selective Soldering@MDPS L1
+06-05-2016 09:33:04        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 09:33:04        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 09:33:04        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 09:33:05        CMD        GETDT<|>Selective Soldering@MDPS L1
+06-05-2016 09:33:06        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 09:33:06        CMD        GETDT<|>AOI@MDPS L1
+06-05-2016 09:33:07        CMD        GETDT<|>Flashing@MDPS L1
+06-05-2016 09:33:07        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 09:33:07        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:07        CMD        GETDT<|>ICT@MDPS L1
+06-05-2016 09:33:08        CMD        GETDT<|>Conformal Coating@MDPS L1
+06-05-2016 09:33:08        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:08        CMD        GETDT<|>Curing Oven@MDPS L1
+06-05-2016 09:33:08        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:09        CMD        GETDT<|>Thermal Pasting@MDPS L1
+06-05-2016 09:33:09        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:09        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:09        CMD        GETDT<|>HSS@MDPS L1
+06-05-2016 09:33:10        CMD        GETDT<|>Cover Clinching@MDPS L1
+06-05-2016 09:33:10        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:10        CMD        GETDT<|>HT@MDPS L1
+06-05-2016 09:33:10        RES        GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:10        CMD        GETDT<|>Cold Chamber@MDPS L1
+06-05-2016 09:33:11        RES        GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:11        CMD        GETDT<|>FT@MDPS L1
+06-05-2016 09:33:11        RES        GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 09:33:11        RES        GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:26:48        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Connector Screwing@MDPS L1
+Selective Soldering        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Selective Soldering@MDPS L1
+AOI        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>AOI@MDPS L1
+Flashing        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Flashing@MDPS L1
+ICT        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>ICT@MDPS L1
+Conformal Coating        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Conformal Coating@MDPS L1
+Curing Oven        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Curing Oven@MDPS L1
+Thermal Pasting        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Thermal Pasting@MDPS L1
+HSS        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>HSS@MDPS L1
+Cover Clinching        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Cover Clinching@MDPS L1
+HT        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>HT@MDPS L1
+Cold Chamber        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>Cold Chamber@MDPS L1
+FT        RUNNING,
+06-05-2016 11:26:48        CMD        GETDT<|>FT@MDPS L1
+06-05-2016 11:26:48        CMD        GETEXP
+06-05-2016 11:26:48        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:48        RES        GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:49        RES        GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:49        RES        GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:49        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-2016 11:26:50        CMD        GETDT<|>AOI@MDPS L1
+06-05-2016 11:26:50        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:53        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 11:26:53        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:54        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 11:26:54        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:55        CMD        GETDT<|>Selective Soldering@MDPS L1
+06-05-2016 11:26:55        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:56        CMD        GETDT<|>AOI@MDPS L1
+06-05-2016 11:26:56        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:57        CMD        GETDT<|>Flashing@MDPS L1
+06-05-2016 11:26:57        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:58        CMD        GETDT<|>Conformal Coating@MDPS L1
+06-05-2016 11:26:58        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:26:59        CMD        GETDT<|>ICT@MDPS L1
+06-05-2016 11:26:59        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:00        CMD        GETDT<|>Conformal Coating@MDPS L1
+06-05-2016 11:27:00        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:01        CMD        GETDT<|>Curing Oven@MDPS L1
+06-05-2016 11:27:01        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:03        CMD        GETDT<|>Thermal Pasting@MDPS L1
+06-05-2016 11:27:03        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:19        CMD        MDPS L1:Thermal Pasting is down!
+06-05-2016 11:27:46        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:27:46        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Connector Screwing@MDPS L1
+Selective Soldering        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Selective Soldering@MDPS L1
+AOI        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>AOI@MDPS L1
+Flashing        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Flashing@MDPS L1
+ICT        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>ICT@MDPS L1
+Conformal Coating        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Conformal Coating@MDPS L1
+Curing Oven        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Curing Oven@MDPS L1
+Thermal Pasting        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Thermal Pasting@MDPS L1
+HSS        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>HSS@MDPS L1
+Cover Clinching        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Cover Clinching@MDPS L1
+HT        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>HT@MDPS L1
+Cold Chamber        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>Cold Chamber@MDPS L1
+FT        RUNNING,
+06-05-2016 11:27:46        CMD        GETDT<|>FT@MDPS L1
+06-05-2016 11:27:46        CMD        GETEXP
+06-05-2016 11:27:46        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:46        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-2016 11:27:47        CMD        GETLINECONFIG<|>MDPS L2
+06-05-2016 11:27:47        RES        GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Connector Screwing@MDPS L2
+Selective Soldering        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Selective Soldering@MDPS L2
+AOI        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>AOI@MDPS L2
+Flashing        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Flashing@MDPS L2
+ICT        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>ICT@MDPS L2
+Conformal Coating        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Conformal Coating@MDPS L2
+Curing Oven        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Curing Oven@MDPS L2
+Thermal Pasting        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Thermal Pasting@MDPS L2
+HSS        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>HSS@MDPS L2
+Cover Clinching        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Cover Clinching@MDPS L2
+HT        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>HT@MDPS L2
+Cold Chamber        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>Cold Chamber@MDPS L2
+FT        RUNNING,
+06-05-2016 11:27:47        CMD        GETDT<|>FT@MDPS L2
+06-05-2016 11:27:47        CMD        GETEXP
+06-05-2016 11:27:47        RES        GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>ICT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>Conformal Coating@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>Curing Oven@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>Thermal Pasting@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>HSS@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>Cover Clinching@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>HT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        CMD        GETDT<|>Connector Screwing@MDPS L2
+06-05-2016 11:27:47        RES        GETDT<|>Cold Chamber@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETDT<|>FT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:27:47        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-2016 11:27:47        RES        GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:11        CMD        GETDT<|>Selective Soldering@MDPS L2
+06-05-2016 11:28:11        RES        GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:12        CMD        GETDT<|>AOI@MDPS L2
+06-05-2016 11:28:12        RES        GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:15        CMD        GETDT<|>Flashing@MDPS L2
+06-05-2016 11:28:15        RES        GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:17        CMD        GETLINECONFIG<|>MDPS L2
+06-05-2016 11:28:18        RES        GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Connector Screwing@MDPS L2
+Selective Soldering        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Selective Soldering@MDPS L2
+AOI        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>AOI@MDPS L2
+Flashing        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Flashing@MDPS L2
+ICT        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>ICT@MDPS L2
+Conformal Coating        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Conformal Coating@MDPS L2
+Curing Oven        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Curing Oven@MDPS L2
+Thermal Pasting        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Thermal Pasting@MDPS L2
+HSS        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>HSS@MDPS L2
+Cover Clinching        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Cover Clinching@MDPS L2
+HT        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>HT@MDPS L2
+Cold Chamber        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Cold Chamber@MDPS L2
+FT        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>FT@MDPS L2
+06-05-2016 11:28:18        CMD        GETEXP
+06-05-2016 11:28:18        RES        GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>ICT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>Conformal Coating@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>Curing Oven@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>Thermal Pasting@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>HSS@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>Cover Clinching@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>HT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>Cold Chamber@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETDT<|>FT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:18        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-2016 11:28:18        CMD        GETLINECONFIG<|>MDPS L2
+06-05-2016 11:28:18        RES        GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Connector Screwing@MDPS L2
+Selective Soldering        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Selective Soldering@MDPS L2
+AOI        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>AOI@MDPS L2
+Flashing        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>Flashing@MDPS L2
+ICT        RUNNING,
+06-05-2016 11:28:18        CMD        GETDT<|>ICT@MDPS L2
+Conformal Coating        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>Conformal Coating@MDPS L2
+Curing Oven        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>Curing Oven@MDPS L2
+Thermal Pasting        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>Thermal Pasting@MDPS L2
+HSS        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>HSS@MDPS L2
+Cover Clinching        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>Cover Clinching@MDPS L2
+HT        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>HT@MDPS L2
+Cold Chamber        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>Cold Chamber@MDPS L2
+FT        RUNNING,
+06-05-2016 11:28:19        CMD        GETDT<|>FT@MDPS L2
+06-05-2016 11:28:19        CMD        GETEXP
+06-05-2016 11:28:19        RES        GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>ICT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>Conformal Coating@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>Curing Oven@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>Thermal Pasting@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>HSS@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>Cover Clinching@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>HT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>Cold Chamber@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETDT<|>FT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:28:19        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-2016 11:29:20        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:29:20        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+06-05-2016 11:29:20        CMD        GETDT<|>Connector Screwing@MDPS L1
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+06-05-2016 11:29:20        CMD        GETDT<|>Selective Soldering@MDPS L1
+AOI        BREAKDOWN,160222101321
+06-05-2016 11:29:20        CMD        GETDT<|>AOI@MDPS L1
+Flashing        RUNNING,
+06-05-2016 11:29:20        CMD        GETDT<|>Flashing@MDPS L1
+ICT        RUNNING,
+06-05-2016 11:29:20        CMD        GETDT<|>ICT@MDPS L1
+Conformal Coating        RUNNING,
+06-05-2016 11:29:20        CMD        GETDT<|>Conformal Coating@MDPS L1
+Curing Oven        RUNNING,
+06-05-2016 11:29:21        CMD        GETDT<|>Curing Oven@MDPS L1
+Thermal Pasting        RUNNING,
+06-05-2016 11:29:21        CMD        GETDT<|>Thermal Pasting@MDPS L1
+HSS        RUNNING,
+06-05-2016 11:29:21        CMD        GETDT<|>HSS@MDPS L1
+Cover Clinching        RUNNING,
+06-05-2016 11:29:21        CMD        GETDT<|>Cover Clinching@MDPS L1
+HT        RUNNING,
+06-05-2016 11:29:21        CMD        GETDT<|>HT@MDPS L1
+Cold Chamber        RUNNING,
+06-05-2016 11:29:21        CMD        GETDT<|>Cold Chamber@MDPS L1
+FT        RUNNING,
+06-05-2016 11:29:21        CMD        GETDT<|>FT@MDPS L1
+06-05-2016 11:29:21        CMD        GETEXP
+06-05-2016 11:29:21        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:29:21        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 11:40:00        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:40:00        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:40:00        CMD        GETEXP
+06-05-2016 11:40:00        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 11:41:48        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:41:48        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:41:48        CMD        GETEXP
+06-05-2016 11:41:48        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 11:43:30        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:43:30        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:43:31        CMD        GETEXP
+06-05-2016 11:43:31        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 11:43:32        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 11:43:32        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 11:43:34        CMD        GETDT<|>Selective Soldering@MDPS L1
+06-05-2016 11:43:35        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 11:43:36        CMD        GETDT<|>AOI@MDPS L1
+06-05-2016 11:43:36        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 11:43:37        CMD        GETDT<|>Flashing@MDPS L1
+06-05-2016 11:43:37        RES        GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:43:37        CMD        GETDT<|>ICT@MDPS L1
+06-05-2016 11:43:37        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:43:38        CMD        GETDT<|>Conformal Coating@MDPS L1
+06-05-2016 11:43:38        RES        GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:43:38        CMD        GETDT<|>Curing Oven@MDPS L1
+06-05-2016 11:43:38        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:43:39        CMD        GETDT<|>Thermal Pasting@MDPS L1
+06-05-2016 11:43:39        RES        GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-2016 11:44:22        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:44:22        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:44:23        CMD        GETEXP
+06-05-2016 11:44:23        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 11:44:30        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 11:44:30        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 11:45:54        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:45:54        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:45:54        CMD        GETEXP
+06-05-2016 11:45:54        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 11:45:55        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 11:45:55        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 11:47:21        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:47:22        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:48:56        CMD        GETEXP
+06-05-2016 11:49:00        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 11:50:30        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:50:30        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:51:41        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:51:41        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 11:53:33        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 11:53:33        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 13:42:57        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 13:42:57        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 13:42:57        CMD        GETEXP
+06-05-2016 13:42:57        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 13:43:25        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 13:43:25        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 13:43:25        CMD        GETEXP
+06-05-2016 13:43:25        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 13:43:40        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 13:43:40        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 13:43:41        CMD        GETEXP
+06-05-2016 13:43:41        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 14:32:06        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 14:32:06        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 14:32:07        CMD        GETEXP
+06-05-2016 14:32:07        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 14:32:08        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 14:32:08        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 14:32:13        CMD        GETDT<|>Selective Soldering@MDPS L1
+06-05-2016 14:32:13        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-2016 14:32:56        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 14:32:56        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 14:32:56        CMD        GETEXP
+06-05-2016 14:32:56        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 14:32:56        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 14:32:56        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-2016 14:33:20        CMD        GETLINECONFIG<|>MDPS L1
+06-05-2016 14:33:20        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        BREAKDOWN,160222101321
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+06-05-2016 14:33:43        CMD        GETEXP
+06-05-2016 14:33:43        CMD        GETDT<|>Connector Screwing@MDPS L1
+06-05-2016 14:33:43        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-2016 14:33:43        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+07-05-2016 07:31:49        CMD        GETLINECONFIG<|>MDPS L1
+07-05-2016 07:31:50        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        UNDER ANALYSIS,160222101321;160506170351
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+07-05-2016 07:31:51        CMD        GETEXP
+07-05-2016 07:31:51        CMD        GETDT<|>Connector Screwing@MDPS L1
+07-05-2016 07:31:51        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+07-05-2016 07:31:52        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+07-05-2016 07:31:56        CMD        GETLINECONFIG<|>MDPS L2
+07-05-2016 07:31:56        RES        GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@BREAKDOWN,160223093611::AOI@RUNNING,::Flashing@BREAKDOWN,160223170834::ICT@BREAKDOWN,160223092541::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@BREAKDOWN,160215100521::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        RUNNING,
+Selective Soldering        BREAKDOWN,160223093611
+AOI        RUNNING,
+Flashing        BREAKDOWN,160223170834
+ICT        BREAKDOWN,160223092541
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        BREAKDOWN,160215100521
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+07-05-2016 07:31:57        CMD        GETEXP
+07-05-2016 07:31:57        CMD        GETDT<|>Connector Screwing@MDPS L2
+07-05-2016 07:31:57        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+07-05-2016 07:31:57        RES        GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+07-05-2016 07:32:02        CMD        GETLINECONFIG<|>MDPS L1
+07-05-2016 07:32:03        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        UNDER ANALYSIS,160222101321;160506170351
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+07-05-2016 07:32:03        CMD        GETEXP
+07-05-2016 07:32:03        CMD        GETDT<|>Connector Screwing@MDPS L1
+07-05-2016 07:32:04        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+07-05-2016 07:32:04        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+10-05-2016 08:16:06        CMD        GETLINECONFIG<|>MDPS L1
+10-05-2016 08:16:06        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        UNDER ANALYSIS,160222101321;160506170351
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+10-05-2016 08:16:07        CMD        GETEXP
+10-05-2016 08:16:07        CMD        GETDT<|>Connector Screwing@MDPS L1
+10-05-2016 08:16:08        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+10-05-2016 08:16:08        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+10-05-2016 08:22:55        CMD        GETDT<|>ICT@MDPS L1
+10-05-2016 08:22:56        RES        GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+10-05-2016 08:22:57        CMD        GETDT<|>AOI@MDPS L1
+10-05-2016 08:22:58        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-2016 08:23:00        CMD        GETDT<|>Curing Oven@MDPS L1
+10-05-2016 08:23:01        RES        GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+10-05-2016 08:23:03        CMD        GETDT<|>HSS@MDPS L1
+10-05-2016 08:23:04        RES        GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+10-05-2016 08:23:05        CMD        GETDT<|>AOI@MDPS L1
+10-05-2016 08:23:06        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-2016 08:23:08        CMD        GETDT<|>Selective Soldering@MDPS L1
+10-05-2016 08:23:09        RES        GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-2016 08:23:11        CMD        GETDT<|>AOI@MDPS L1
+10-05-2016 08:23:12        RES        GETDT<|>AOI@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-2016 08:23:14        CMD        GETDT<|>Connector Screwing@MDPS L1
+10-05-2016 08:23:14        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+10-05-2016 08:23:16        CMD        GETLINECONFIG<|>MDPS L1
+10-05-2016 08:23:17        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        UNDER ANALYSIS,160222101321;160506170351
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+10-05-2016 08:23:18        CMD        GETEXP
+10-05-2016 08:23:18        CMD        GETDT<|>Connector Screwing@MDPS L1
+10-05-2016 08:23:18        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+10-05-2016 08:23:18        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+11-05-2016 10:53:19        CMD        GETLINECONFIG<|>MDPS L1
+11-05-2016 10:53:19        RES        GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+Connector Screwing        BREAKDOWN,160218045836
+Selective Soldering        UNDER ANALYSIS,160223205519;160223212555
+AOI        UNDER ANALYSIS,160222101321;160506170351
+Flashing        RUNNING,
+ICT        RUNNING,
+Conformal Coating        RUNNING,
+Curing Oven        RUNNING,
+Thermal Pasting        RUNNING,
+HSS        RUNNING,
+Cover Clinching        RUNNING,
+HT        RUNNING,
+Cold Chamber        RUNNING,
+FT        RUNNING,
+11-05-2016 10:53:20        CMD        GETEXP
+11-05-2016 10:53:20        CMD        GETDT<|>Connector Screwing@MDPS L1
+11-05-2016 10:53:20        RES        GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+11-05-2016 10:53:21        RES        GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0

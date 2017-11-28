@@ -1,0 +1,21 @@
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\Client Application.exe.config
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\Client Application.exe
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\Client Application.pdb
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\Microsoft.VisualBasic.dll
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\NetworksApi.dll
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\System.Deployment.dll
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\System.Drawing.dll
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\System.Xml.dll
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.xml
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client_Application.ChooseContacts.resources
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client_Application.Form1.resources
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client_Application.LoginForm.resources
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client_Application.Properties.Resources.resources
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client_Application.SendMessage.resources
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client_Application.StatusChange.resources
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client Application.csproj.GenerateResource.Cache
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client Application.exe
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client Application.pdb
+C:\Users\uidw8018\Documents\Visual Studio 2010\Projects\GSM_Conti\Chat Client Server\Client Application\Client Application\obj\x86\Release\Client Application.csprojResolveAssemblyReference.cache

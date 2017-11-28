@@ -1,0 +1,1087 @@
+06-05-16 08:49:33 - Connecting
+06-05-16 08:49:33 - Connected
+06-05-16 08:49:38 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 08:49:38 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 08:49:38 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-16 08:49:38 - GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 08:49:38 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:38 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:38 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:38 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:38 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:39 - GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:39 - GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:39 - GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:39 - GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:39 - GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 08:49:39 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 09:01:38 - Error in Connecting
+06-05-16 09:01:41 - No Server connection!
+06-05-16 09:01:41 - Connecting
+06-05-16 09:01:41 - Client Error
+
+06-05-16 09:03:42 - Error in Connecting
+06-05-16 09:03:42 - No Server connection!
+06-05-16 09:03:42 - Connecting
+06-05-16 09:03:42 - Client Error
+06-05-16 09:03:44 - No Server connection!
+06-05-16 09:03:44 - Connecting
+06-05-16 09:03:44 - Client Error
+
+06-05-16 09:08:23 - Error in Connecting
+06-05-16 09:08:26 - No Server connection!
+06-05-16 09:08:26 - Connecting
+06-05-16 09:08:26 - Client Error
+06-05-16 09:08:29 - No Server connection!
+06-05-16 09:08:29 - Connecting
+06-05-16 09:08:29 - Client Error
+06-05-16 09:08:32 - No Server connection!
+06-05-16 09:08:32 - Connecting
+06-05-16 09:08:32 - Client Error
+06-05-16 09:08:35 - No Server connection!
+06-05-16 09:08:35 - Connecting
+06-05-16 09:08:35 - Client Error
+06-05-16 09:08:38 - No Server connection!
+06-05-16 09:08:38 - Connecting
+06-05-16 09:08:38 - Client Error
+06-05-16 09:08:41 - No Server connection!
+06-05-16 09:08:41 - Connecting
+06-05-16 09:08:41 - Client Error
+06-05-16 09:08:44 - No Server connection!
+06-05-16 09:08:44 - Connecting
+06-05-16 09:08:44 - Client Error
+06-05-16 09:08:47 - No Server connection!
+06-05-16 09:08:47 - Connecting
+06-05-16 09:08:47 - Client Error
+
+06-05-16 09:09:54 - Error in Connecting
+06-05-16 09:09:57 - No Server connection!
+06-05-16 09:09:57 - Connecting
+06-05-16 09:09:57 - Client Error
+
+06-05-16 09:16:48 - Connecting
+06-05-16 09:16:48 - Connected
+06-05-16 09:16:54 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 09:16:55 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:16:55 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 09:30:01 - Connecting
+06-05-16 09:30:01 - Connected
+
+06-05-16 09:32:37 - Connecting
+06-05-16 09:32:37 - Connected
+06-05-16 09:32:40 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 09:32:41 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:32:41 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-16 09:32:44 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-16 09:32:49 - GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 09:32:59 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:03 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:04 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-16 09:33:04 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 09:33:06 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-16 09:33:07 - GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 09:33:07 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:08 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:08 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:09 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:09 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:10 - GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:10 - GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:11 - GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:11 - GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 09:33:11 - GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+
+06-05-16 10:45:53 - Connecting
+06-05-16 10:45:56 - No Server connection!
+06-05-16 10:45:56 - Connecting
+06-05-16 10:45:57 - Error in Connecting
+06-05-16 10:45:59 - No Server connection!
+06-05-16 10:45:59 - Connecting
+06-05-16 10:45:59 - Error in Connecting
+06-05-16 10:46:02 - No Server connection!
+06-05-16 10:46:02 - Connecting
+
+06-05-16 11:10:26 - Connecting
+06-05-16 11:10:26 - Client Error
+
+06-05-16 11:10:59 - Connecting
+06-05-16 11:10:59 - Client Error
+
+06-05-16 11:11:25 - Connecting
+06-05-16 11:11:25 - Client Error
+
+06-05-16 11:12:16 - Connecting
+06-05-16 11:12:16 - No Server connection!
+06-05-16 11:12:16 - Connecting
+06-05-16 11:12:17 - Client Error
+06-05-16 11:12:17 - Client Error
+06-05-16 11:12:17 - No Server connection!
+06-05-16 11:12:17 - Connecting
+06-05-16 11:12:18 - Client Error
+06-05-16 11:12:20 - No Server connection!
+06-05-16 11:12:20 - Connecting
+06-05-16 11:12:21 - Client Error
+06-05-16 11:12:23 - No Server connection!
+06-05-16 11:12:23 - Connecting
+06-05-16 11:12:24 - Client Error
+06-05-16 11:12:26 - No Server connection!
+06-05-16 11:12:26 - Connecting
+06-05-16 11:12:27 - Client Error
+06-05-16 11:12:29 - No Server connection!
+06-05-16 11:12:29 - Connecting
+06-05-16 11:12:30 - Client Error
+06-05-16 11:12:32 - No Server connection!
+06-05-16 11:12:32 - Connecting
+06-05-16 11:12:33 - Client Error
+06-05-16 11:12:35 - No Server connection!
+06-05-16 11:12:35 - Connecting
+06-05-16 11:12:36 - Client Error
+06-05-16 11:12:38 - No Server connection!
+06-05-16 11:12:38 - Connecting
+06-05-16 11:12:39 - Client Error
+06-05-16 11:12:41 - No Server connection!
+06-05-16 11:12:41 - Connecting
+06-05-16 11:12:42 - Client Error
+06-05-16 11:12:44 - No Server connection!
+06-05-16 11:12:44 - Connecting
+06-05-16 11:12:45 - Client Error
+06-05-16 11:12:47 - No Server connection!
+06-05-16 11:12:47 - Connecting
+06-05-16 11:12:48 - Client Error
+06-05-16 11:12:50 - No Server connection!
+06-05-16 11:12:50 - Connecting
+06-05-16 11:12:51 - Client Error
+06-05-16 11:12:53 - No Server connection!
+06-05-16 11:12:53 - Connecting
+06-05-16 11:12:54 - Client Error
+06-05-16 11:12:56 - No Server connection!
+06-05-16 11:12:56 - Connecting
+06-05-16 11:12:57 - Client Error
+06-05-16 11:12:59 - No Server connection!
+06-05-16 11:12:59 - Connecting
+06-05-16 11:13:00 - Client Error
+06-05-16 11:13:02 - No Server connection!
+06-05-16 11:13:02 - Connecting
+06-05-16 11:13:03 - Client Error
+06-05-16 11:13:05 - No Server connection!
+06-05-16 11:13:05 - Connecting
+06-05-16 11:13:06 - Client Error
+06-05-16 11:13:08 - No Server connection!
+06-05-16 11:13:08 - Connecting
+06-05-16 11:13:09 - Client Error
+06-05-16 11:13:11 - No Server connection!
+06-05-16 11:13:11 - Connecting
+06-05-16 11:13:12 - Client Error
+06-05-16 11:13:14 - No Server connection!
+06-05-16 11:13:14 - Connecting
+06-05-16 11:13:15 - Client Error
+06-05-16 11:13:17 - No Server connection!
+06-05-16 11:13:17 - Connecting
+06-05-16 11:13:18 - Client Error
+06-05-16 11:13:20 - No Server connection!
+06-05-16 11:13:20 - Connecting
+06-05-16 11:13:21 - Client Error
+06-05-16 11:13:23 - No Server connection!
+06-05-16 11:13:23 - Connecting
+06-05-16 11:13:24 - Client Error
+06-05-16 11:13:26 - No Server connection!
+06-05-16 11:13:26 - Connecting
+06-05-16 11:13:27 - Client Error
+06-05-16 11:13:29 - No Server connection!
+06-05-16 11:13:29 - Connecting
+06-05-16 11:13:30 - Client Error
+06-05-16 11:13:32 - No Server connection!
+06-05-16 11:13:32 - Connecting
+06-05-16 11:13:33 - Client Error
+06-05-16 11:13:35 - No Server connection!
+06-05-16 11:13:35 - Connecting
+06-05-16 11:13:36 - Client Error
+06-05-16 11:13:38 - No Server connection!
+06-05-16 11:13:38 - Connecting
+06-05-16 11:13:39 - Client Error
+06-05-16 11:13:41 - No Server connection!
+06-05-16 11:13:41 - Connecting
+06-05-16 11:13:42 - Client Error
+06-05-16 11:13:44 - No Server connection!
+06-05-16 11:13:44 - Connecting
+06-05-16 11:13:45 - Client Error
+06-05-16 11:13:47 - No Server connection!
+06-05-16 11:13:47 - Connecting
+06-05-16 11:13:48 - Client Error
+06-05-16 11:13:50 - No Server connection!
+06-05-16 11:13:50 - Connecting
+06-05-16 11:13:51 - Client Error
+06-05-16 11:13:53 - No Server connection!
+06-05-16 11:13:53 - Connecting
+06-05-16 11:13:54 - Client Error
+06-05-16 11:13:56 - No Server connection!
+06-05-16 11:13:56 - Connecting
+06-05-16 11:13:57 - Client Error
+06-05-16 11:13:59 - No Server connection!
+06-05-16 11:13:59 - Connecting
+06-05-16 11:14:00 - Client Error
+06-05-16 11:14:02 - No Server connection!
+06-05-16 11:14:02 - Connecting
+06-05-16 11:14:03 - Client Error
+06-05-16 11:14:05 - No Server connection!
+06-05-16 11:14:05 - Connecting
+06-05-16 11:14:06 - Client Error
+06-05-16 11:14:08 - No Server connection!
+06-05-16 11:14:08 - Connecting
+06-05-16 11:14:09 - Client Error
+06-05-16 11:14:11 - No Server connection!
+06-05-16 11:14:11 - Connecting
+06-05-16 11:14:12 - Client Error
+06-05-16 11:14:14 - No Server connection!
+06-05-16 11:14:14 - Connecting
+06-05-16 11:14:15 - Client Error
+06-05-16 11:14:17 - No Server connection!
+06-05-16 11:14:17 - Connecting
+06-05-16 11:14:18 - Client Error
+06-05-16 11:14:20 - No Server connection!
+06-05-16 11:14:20 - Connecting
+06-05-16 11:14:21 - Client Error
+06-05-16 11:14:23 - No Server connection!
+06-05-16 11:14:23 - Connecting
+06-05-16 11:14:24 - Client Error
+06-05-16 11:14:26 - No Server connection!
+06-05-16 11:14:26 - Connecting
+06-05-16 11:14:27 - Client Error
+06-05-16 11:14:29 - No Server connection!
+06-05-16 11:14:29 - Connecting
+06-05-16 11:14:30 - Client Error
+06-05-16 11:14:32 - No Server connection!
+06-05-16 11:14:32 - Connecting
+06-05-16 11:14:33 - Client Error
+06-05-16 11:14:35 - No Server connection!
+06-05-16 11:14:35 - Connecting
+06-05-16 11:14:36 - Client Error
+06-05-16 11:14:38 - No Server connection!
+06-05-16 11:14:38 - Connecting
+06-05-16 11:14:39 - Client Error
+06-05-16 11:14:41 - No Server connection!
+06-05-16 11:14:41 - Connecting
+06-05-16 11:14:42 - Client Error
+06-05-16 11:14:44 - No Server connection!
+06-05-16 11:14:44 - Connecting
+06-05-16 11:14:45 - Client Error
+06-05-16 11:14:47 - No Server connection!
+06-05-16 11:14:47 - Connecting
+06-05-16 11:14:48 - Client Error
+06-05-16 11:14:50 - No Server connection!
+06-05-16 11:14:50 - Connecting
+06-05-16 11:14:51 - Client Error
+06-05-16 11:14:53 - No Server connection!
+06-05-16 11:14:53 - Connecting
+06-05-16 11:14:54 - Client Error
+06-05-16 11:14:56 - No Server connection!
+06-05-16 11:14:56 - Connecting
+06-05-16 11:14:57 - Client Error
+06-05-16 11:14:59 - No Server connection!
+06-05-16 11:14:59 - Connecting
+06-05-16 11:15:00 - Client Error
+06-05-16 11:15:02 - No Server connection!
+06-05-16 11:15:02 - Connecting
+06-05-16 11:15:03 - Client Error
+06-05-16 11:15:05 - No Server connection!
+06-05-16 11:15:05 - Connecting
+06-05-16 11:15:06 - Client Error
+06-05-16 11:15:08 - No Server connection!
+06-05-16 11:15:08 - Connecting
+06-05-16 11:15:09 - Client Error
+06-05-16 11:15:11 - No Server connection!
+06-05-16 11:15:11 - Connecting
+06-05-16 11:15:12 - Client Error
+06-05-16 11:15:14 - No Server connection!
+06-05-16 11:15:14 - Connecting
+06-05-16 11:15:15 - Client Error
+06-05-16 11:15:17 - No Server connection!
+06-05-16 11:15:17 - Connecting
+06-05-16 11:15:18 - Client Error
+06-05-16 11:15:21 - No Server connection!
+06-05-16 11:15:21 - Connecting
+06-05-16 11:15:22 - Client Error
+06-05-16 11:15:24 - No Server connection!
+06-05-16 11:15:24 - Connecting
+06-05-16 11:15:25 - Client Error
+06-05-16 11:15:27 - No Server connection!
+06-05-16 11:15:27 - Connecting
+06-05-16 11:15:28 - Client Error
+06-05-16 11:15:30 - No Server connection!
+06-05-16 11:15:30 - Connecting
+06-05-16 11:15:31 - Client Error
+06-05-16 11:15:33 - No Server connection!
+06-05-16 11:15:33 - Connecting
+06-05-16 11:15:34 - Client Error
+06-05-16 11:15:36 - No Server connection!
+06-05-16 11:15:36 - Connecting
+06-05-16 11:15:37 - Client Error
+06-05-16 11:15:39 - No Server connection!
+06-05-16 11:15:39 - Connecting
+06-05-16 11:15:40 - Client Error
+06-05-16 11:15:42 - No Server connection!
+06-05-16 11:15:42 - Connecting
+06-05-16 11:15:43 - Client Error
+06-05-16 11:15:45 - No Server connection!
+06-05-16 11:15:45 - Connecting
+06-05-16 11:15:46 - Client Error
+06-05-16 11:15:48 - No Server connection!
+06-05-16 11:15:48 - Connecting
+06-05-16 11:15:49 - Client Error
+06-05-16 11:15:51 - No Server connection!
+06-05-16 11:15:51 - Connecting
+06-05-16 11:15:52 - Client Error
+06-05-16 11:15:54 - No Server connection!
+06-05-16 11:15:54 - Connecting
+06-05-16 11:15:55 - Client Error
+06-05-16 11:15:57 - No Server connection!
+06-05-16 11:15:57 - Connecting
+06-05-16 11:15:58 - Client Error
+06-05-16 11:16:00 - No Server connection!
+06-05-16 11:16:00 - Connecting
+06-05-16 11:16:01 - Client Error
+06-05-16 11:16:03 - No Server connection!
+06-05-16 11:16:03 - Connecting
+06-05-16 11:16:04 - Client Error
+06-05-16 11:16:06 - No Server connection!
+06-05-16 11:16:06 - Connecting
+06-05-16 11:16:07 - Client Error
+06-05-16 11:16:09 - No Server connection!
+06-05-16 11:16:09 - Connecting
+06-05-16 11:16:10 - Client Error
+06-05-16 11:16:12 - No Server connection!
+06-05-16 11:16:12 - Connecting
+06-05-16 11:16:13 - Client Error
+06-05-16 11:16:15 - No Server connection!
+06-05-16 11:16:15 - Connecting
+06-05-16 11:16:16 - Client Error
+06-05-16 11:16:18 - No Server connection!
+06-05-16 11:16:18 - Connecting
+06-05-16 11:16:19 - Client Error
+06-05-16 11:16:21 - No Server connection!
+06-05-16 11:16:21 - Connecting
+06-05-16 11:16:22 - Client Error
+06-05-16 11:16:24 - No Server connection!
+06-05-16 11:16:24 - Connecting
+06-05-16 11:16:25 - Client Error
+06-05-16 11:16:27 - No Server connection!
+06-05-16 11:16:27 - Connecting
+06-05-16 11:16:28 - Client Error
+06-05-16 11:16:30 - No Server connection!
+06-05-16 11:16:30 - Connecting
+06-05-16 11:16:31 - Client Error
+06-05-16 11:16:33 - No Server connection!
+06-05-16 11:16:33 - Connecting
+06-05-16 11:16:34 - Client Error
+06-05-16 11:16:36 - No Server connection!
+06-05-16 11:16:36 - Connecting
+06-05-16 11:16:37 - Client Error
+06-05-16 11:16:39 - No Server connection!
+06-05-16 11:16:39 - Connecting
+06-05-16 11:16:40 - Client Error
+06-05-16 11:16:42 - No Server connection!
+06-05-16 11:16:42 - Connecting
+06-05-16 11:16:43 - Client Error
+06-05-16 11:16:45 - No Server connection!
+06-05-16 11:16:45 - Connecting
+06-05-16 11:16:46 - Client Error
+06-05-16 11:16:48 - No Server connection!
+06-05-16 11:16:48 - Connecting
+06-05-16 11:16:49 - Client Error
+06-05-16 11:16:51 - No Server connection!
+06-05-16 11:16:51 - Connecting
+06-05-16 11:16:52 - Client Error
+06-05-16 11:16:54 - No Server connection!
+06-05-16 11:16:54 - Connecting
+06-05-16 11:16:55 - Client Error
+06-05-16 11:16:57 - No Server connection!
+06-05-16 11:16:57 - Connecting
+06-05-16 11:16:58 - Client Error
+06-05-16 11:17:00 - No Server connection!
+06-05-16 11:17:00 - Connecting
+06-05-16 11:17:01 - Client Error
+06-05-16 11:17:03 - No Server connection!
+06-05-16 11:17:03 - Connecting
+06-05-16 11:17:04 - Client Error
+06-05-16 11:17:06 - No Server connection!
+06-05-16 11:17:06 - Connecting
+06-05-16 11:17:07 - Client Error
+06-05-16 11:17:09 - No Server connection!
+06-05-16 11:17:09 - Connecting
+06-05-16 11:17:10 - Client Error
+06-05-16 11:17:12 - No Server connection!
+06-05-16 11:17:12 - Connecting
+06-05-16 11:17:13 - Client Error
+06-05-16 11:17:15 - No Server connection!
+06-05-16 11:17:15 - Connecting
+06-05-16 11:17:16 - Client Error
+06-05-16 11:17:18 - No Server connection!
+06-05-16 11:17:18 - Connecting
+06-05-16 11:17:19 - Client Error
+06-05-16 11:17:21 - No Server connection!
+06-05-16 11:17:21 - Connecting
+06-05-16 11:17:22 - Client Error
+06-05-16 11:17:24 - No Server connection!
+06-05-16 11:17:24 - Connecting
+06-05-16 11:17:25 - Client Error
+06-05-16 11:17:27 - No Server connection!
+06-05-16 11:17:27 - Connecting
+06-05-16 11:17:28 - Client Error
+06-05-16 11:17:30 - No Server connection!
+06-05-16 11:17:30 - Connecting
+06-05-16 11:17:31 - Client Error
+06-05-16 11:17:33 - No Server connection!
+06-05-16 11:17:33 - Connecting
+06-05-16 11:17:34 - Client Error
+06-05-16 11:17:36 - No Server connection!
+06-05-16 11:17:36 - Connecting
+06-05-16 11:17:37 - Client Error
+06-05-16 11:17:39 - No Server connection!
+06-05-16 11:17:39 - Connecting
+06-05-16 11:17:40 - Client Error
+06-05-16 11:17:42 - No Server connection!
+06-05-16 11:17:42 - Connecting
+06-05-16 11:17:43 - Client Error
+06-05-16 11:17:45 - No Server connection!
+06-05-16 11:17:45 - Connecting
+06-05-16 11:17:46 - Client Error
+06-05-16 11:17:48 - No Server connection!
+06-05-16 11:17:48 - Connecting
+06-05-16 11:17:49 - Client Error
+06-05-16 11:17:51 - No Server connection!
+06-05-16 11:17:51 - Connecting
+06-05-16 11:17:52 - Client Error
+06-05-16 11:17:54 - No Server connection!
+06-05-16 11:17:54 - Connecting
+06-05-16 11:17:55 - Client Error
+06-05-16 11:17:57 - No Server connection!
+06-05-16 11:17:57 - Connecting
+06-05-16 11:17:58 - Client Error
+06-05-16 11:18:00 - No Server connection!
+06-05-16 11:18:00 - Connecting
+06-05-16 11:18:01 - Client Error
+06-05-16 11:18:03 - No Server connection!
+06-05-16 11:18:03 - Connecting
+06-05-16 11:18:04 - Client Error
+06-05-16 11:18:06 - No Server connection!
+06-05-16 11:18:06 - Connecting
+06-05-16 11:18:07 - Client Error
+06-05-16 11:18:09 - No Server connection!
+06-05-16 11:18:09 - Connecting
+06-05-16 11:18:10 - Client Error
+06-05-16 11:18:12 - No Server connection!
+06-05-16 11:18:12 - Connecting
+06-05-16 11:18:13 - Client Error
+06-05-16 11:18:15 - No Server connection!
+06-05-16 11:18:15 - Connecting
+06-05-16 11:18:16 - Client Error
+06-05-16 11:18:18 - No Server connection!
+06-05-16 11:18:18 - Connecting
+06-05-16 11:18:19 - Client Error
+06-05-16 11:18:21 - No Server connection!
+06-05-16 11:18:21 - Connecting
+06-05-16 11:18:22 - Client Error
+06-05-16 11:18:24 - No Server connection!
+06-05-16 11:18:24 - Connecting
+06-05-16 11:18:25 - Client Error
+06-05-16 11:18:27 - No Server connection!
+06-05-16 11:18:27 - Connecting
+06-05-16 11:18:28 - Client Error
+06-05-16 11:18:30 - No Server connection!
+06-05-16 11:18:30 - Connecting
+06-05-16 11:18:31 - Client Error
+06-05-16 11:18:33 - No Server connection!
+06-05-16 11:18:33 - Connecting
+06-05-16 11:18:34 - Client Error
+06-05-16 11:18:36 - No Server connection!
+06-05-16 11:18:36 - Connecting
+06-05-16 11:18:37 - Client Error
+06-05-16 11:18:39 - No Server connection!
+06-05-16 11:18:39 - Connecting
+06-05-16 11:18:40 - Client Error
+06-05-16 11:18:42 - No Server connection!
+06-05-16 11:18:42 - Connecting
+06-05-16 11:18:43 - Client Error
+06-05-16 11:18:45 - No Server connection!
+06-05-16 11:18:45 - Connecting
+06-05-16 11:18:46 - Client Error
+06-05-16 11:18:48 - No Server connection!
+06-05-16 11:18:48 - Connecting
+06-05-16 11:18:49 - Client Error
+06-05-16 11:18:51 - No Server connection!
+06-05-16 11:18:51 - Connecting
+06-05-16 11:18:52 - Client Error
+06-05-16 11:18:54 - No Server connection!
+06-05-16 11:18:54 - Connecting
+06-05-16 11:18:55 - Client Error
+06-05-16 11:18:57 - No Server connection!
+06-05-16 11:18:57 - Connecting
+06-05-16 11:18:58 - Client Error
+06-05-16 11:19:00 - No Server connection!
+06-05-16 11:19:00 - Connecting
+06-05-16 11:19:01 - Client Error
+06-05-16 11:19:03 - No Server connection!
+06-05-16 11:19:03 - Connecting
+06-05-16 11:19:04 - Client Error
+06-05-16 11:19:06 - No Server connection!
+06-05-16 11:19:06 - Connecting
+06-05-16 11:19:07 - Client Error
+06-05-16 11:19:09 - No Server connection!
+06-05-16 11:19:09 - Connecting
+06-05-16 11:19:10 - Client Error
+06-05-16 11:19:12 - No Server connection!
+06-05-16 11:19:12 - Connecting
+06-05-16 11:19:13 - Client Error
+06-05-16 11:19:15 - No Server connection!
+06-05-16 11:19:15 - Connecting
+06-05-16 11:19:16 - Client Error
+06-05-16 11:19:18 - No Server connection!
+06-05-16 11:19:18 - Connecting
+06-05-16 11:19:19 - Client Error
+06-05-16 11:19:21 - No Server connection!
+06-05-16 11:19:21 - Connecting
+06-05-16 11:19:22 - Client Error
+06-05-16 11:19:24 - No Server connection!
+06-05-16 11:19:24 - Connecting
+06-05-16 11:19:25 - Client Error
+06-05-16 11:19:27 - No Server connection!
+06-05-16 11:19:27 - Connecting
+06-05-16 11:19:28 - Client Error
+06-05-16 11:19:30 - No Server connection!
+06-05-16 11:19:30 - Connecting
+06-05-16 11:19:31 - Client Error
+06-05-16 11:19:33 - No Server connection!
+06-05-16 11:19:33 - Connecting
+06-05-16 11:19:34 - Client Error
+06-05-16 11:19:36 - No Server connection!
+06-05-16 11:19:36 - Connecting
+06-05-16 11:19:37 - Client Error
+06-05-16 11:19:39 - No Server connection!
+06-05-16 11:19:39 - Connecting
+06-05-16 11:19:40 - Client Error
+06-05-16 11:19:42 - No Server connection!
+06-05-16 11:19:42 - Connecting
+06-05-16 11:19:43 - Client Error
+06-05-16 11:19:45 - No Server connection!
+06-05-16 11:19:45 - Connecting
+06-05-16 11:19:46 - Client Error
+06-05-16 11:19:48 - No Server connection!
+06-05-16 11:19:48 - Connecting
+06-05-16 11:19:49 - Client Error
+06-05-16 11:19:51 - No Server connection!
+06-05-16 11:19:51 - Connecting
+06-05-16 11:19:53 - Client Error
+06-05-16 11:19:54 - No Server connection!
+06-05-16 11:19:55 - Connecting
+06-05-16 11:19:56 - Client Error
+06-05-16 11:19:58 - No Server connection!
+06-05-16 11:19:58 - Connecting
+06-05-16 11:19:59 - Client Error
+06-05-16 11:20:01 - No Server connection!
+06-05-16 11:20:01 - Connecting
+06-05-16 11:20:02 - Client Error
+06-05-16 11:20:04 - No Server connection!
+06-05-16 11:20:04 - Connecting
+06-05-16 11:20:05 - Client Error
+06-05-16 11:20:07 - No Server connection!
+06-05-16 11:20:07 - Connecting
+06-05-16 11:20:08 - Client Error
+06-05-16 11:20:10 - No Server connection!
+06-05-16 11:20:10 - Connecting
+06-05-16 11:20:11 - Client Error
+06-05-16 11:20:13 - No Server connection!
+06-05-16 11:20:13 - Connecting
+06-05-16 11:20:14 - Client Error
+06-05-16 11:20:16 - No Server connection!
+06-05-16 11:20:16 - Connecting
+06-05-16 11:20:17 - Client Error
+06-05-16 11:20:19 - No Server connection!
+06-05-16 11:20:19 - Connecting
+06-05-16 11:20:20 - Client Error
+06-05-16 11:20:22 - No Server connection!
+06-05-16 11:20:22 - Connecting
+06-05-16 11:20:23 - Client Error
+06-05-16 11:20:25 - No Server connection!
+06-05-16 11:20:25 - Connecting
+06-05-16 11:20:26 - Client Error
+06-05-16 11:20:28 - No Server connection!
+06-05-16 11:20:28 - Connecting
+06-05-16 11:20:29 - Client Error
+06-05-16 11:20:31 - No Server connection!
+06-05-16 11:20:31 - Connecting
+06-05-16 11:20:32 - Client Error
+06-05-16 11:20:34 - No Server connection!
+06-05-16 11:20:34 - Connecting
+06-05-16 11:20:35 - Client Error
+06-05-16 11:20:37 - No Server connection!
+06-05-16 11:20:37 - Connecting
+06-05-16 11:20:38 - Client Error
+06-05-16 11:20:40 - No Server connection!
+06-05-16 11:20:40 - Connecting
+06-05-16 11:20:41 - Client Error
+06-05-16 11:20:43 - No Server connection!
+06-05-16 11:20:43 - Connecting
+06-05-16 11:20:44 - Client Error
+06-05-16 11:20:46 - No Server connection!
+06-05-16 11:20:46 - Connecting
+06-05-16 11:20:47 - Client Error
+06-05-16 11:20:49 - No Server connection!
+06-05-16 11:20:49 - Connecting
+06-05-16 11:20:50 - Client Error
+06-05-16 11:20:52 - No Server connection!
+06-05-16 11:20:52 - Connecting
+06-05-16 11:20:53 - Client Error
+06-05-16 11:20:55 - No Server connection!
+06-05-16 11:20:55 - Connecting
+06-05-16 11:20:56 - Client Error
+06-05-16 11:20:58 - No Server connection!
+06-05-16 11:20:58 - Connecting
+06-05-16 11:20:59 - Client Error
+06-05-16 11:21:01 - No Server connection!
+06-05-16 11:21:01 - Connecting
+06-05-16 11:21:02 - Client Error
+06-05-16 11:21:04 - No Server connection!
+06-05-16 11:21:04 - Connecting
+06-05-16 11:21:05 - Client Error
+06-05-16 11:21:07 - No Server connection!
+06-05-16 11:21:07 - Connecting
+06-05-16 11:21:08 - Client Error
+06-05-16 11:21:10 - No Server connection!
+06-05-16 11:21:10 - Connecting
+06-05-16 11:21:11 - Client Error
+06-05-16 11:21:13 - No Server connection!
+06-05-16 11:21:13 - Connecting
+06-05-16 11:21:14 - Client Error
+06-05-16 11:21:16 - No Server connection!
+06-05-16 11:21:16 - Connecting
+06-05-16 11:21:17 - Client Error
+06-05-16 11:21:19 - No Server connection!
+06-05-16 11:21:19 - Connecting
+06-05-16 11:21:20 - Client Error
+06-05-16 11:21:22 - No Server connection!
+06-05-16 11:21:22 - Connecting
+06-05-16 11:21:23 - Client Error
+06-05-16 11:21:25 - No Server connection!
+06-05-16 11:21:25 - Connecting
+06-05-16 11:21:26 - Client Error
+06-05-16 11:21:28 - No Server connection!
+06-05-16 11:21:28 - Connecting
+06-05-16 11:21:29 - Client Error
+06-05-16 11:21:31 - No Server connection!
+06-05-16 11:21:31 - Connecting
+06-05-16 11:21:32 - Client Error
+06-05-16 11:21:34 - No Server connection!
+06-05-16 11:21:34 - Connecting
+06-05-16 11:21:35 - Client Error
+06-05-16 11:21:37 - No Server connection!
+06-05-16 11:21:37 - Connecting
+06-05-16 11:21:38 - Client Error
+06-05-16 11:21:40 - No Server connection!
+06-05-16 11:21:40 - Connecting
+06-05-16 11:21:41 - Client Error
+06-05-16 11:21:43 - No Server connection!
+06-05-16 11:21:43 - Connecting
+06-05-16 11:21:44 - Client Error
+06-05-16 11:21:46 - No Server connection!
+06-05-16 11:21:46 - Connecting
+06-05-16 11:21:47 - Client Error
+06-05-16 11:21:49 - No Server connection!
+06-05-16 11:21:49 - Connecting
+06-05-16 11:21:50 - Client Error
+06-05-16 11:21:52 - No Server connection!
+06-05-16 11:21:52 - Connecting
+06-05-16 11:21:53 - Client Error
+06-05-16 11:21:55 - No Server connection!
+06-05-16 11:21:55 - Connecting
+06-05-16 11:21:56 - Client Error
+06-05-16 11:21:58 - No Server connection!
+06-05-16 11:21:58 - Connecting
+06-05-16 11:21:59 - Client Error
+06-05-16 11:22:01 - No Server connection!
+06-05-16 11:22:01 - Connecting
+06-05-16 11:22:02 - Client Error
+06-05-16 11:22:04 - No Server connection!
+06-05-16 11:22:04 - Connecting
+06-05-16 11:22:05 - Client Error
+06-05-16 11:22:07 - No Server connection!
+06-05-16 11:22:07 - Connecting
+06-05-16 11:22:08 - Client Error
+06-05-16 11:22:10 - No Server connection!
+06-05-16 11:22:10 - Connecting
+06-05-16 11:22:11 - Client Error
+06-05-16 11:22:13 - No Server connection!
+06-05-16 11:22:13 - Connecting
+06-05-16 11:22:14 - Client Error
+06-05-16 11:22:16 - No Server connection!
+06-05-16 11:22:16 - Connecting
+06-05-16 11:22:17 - Client Error
+06-05-16 11:22:19 - No Server connection!
+06-05-16 11:22:19 - Connecting
+06-05-16 11:22:20 - Client Error
+06-05-16 11:22:22 - No Server connection!
+06-05-16 11:22:22 - Connecting
+06-05-16 11:22:23 - Client Error
+06-05-16 11:22:25 - No Server connection!
+06-05-16 11:22:25 - Connecting
+06-05-16 11:22:26 - Client Error
+06-05-16 11:22:28 - No Server connection!
+06-05-16 11:22:28 - Connecting
+06-05-16 11:22:29 - Client Error
+06-05-16 11:22:31 - No Server connection!
+06-05-16 11:22:31 - Connecting
+06-05-16 11:22:32 - Client Error
+06-05-16 11:22:34 - No Server connection!
+06-05-16 11:22:34 - Connecting
+06-05-16 11:22:35 - Client Error
+06-05-16 11:22:37 - No Server connection!
+06-05-16 11:22:37 - Connecting
+06-05-16 11:22:38 - Client Error
+06-05-16 11:22:40 - No Server connection!
+06-05-16 11:22:40 - Connecting
+06-05-16 11:22:41 - Client Error
+06-05-16 11:22:43 - No Server connection!
+06-05-16 11:22:43 - Connecting
+06-05-16 11:22:44 - Client Error
+06-05-16 11:22:46 - No Server connection!
+06-05-16 11:22:46 - Connecting
+06-05-16 11:22:47 - Client Error
+06-05-16 11:22:49 - No Server connection!
+06-05-16 11:22:49 - Connecting
+06-05-16 11:22:50 - Client Error
+06-05-16 11:22:52 - No Server connection!
+06-05-16 11:22:52 - Connecting
+06-05-16 11:22:53 - Client Error
+06-05-16 11:22:55 - No Server connection!
+06-05-16 11:22:55 - Connecting
+06-05-16 11:22:56 - Client Error
+06-05-16 11:22:58 - No Server connection!
+06-05-16 11:22:58 - Connecting
+06-05-16 11:22:59 - Client Error
+06-05-16 11:23:01 - No Server connection!
+06-05-16 11:23:01 - Connecting
+06-05-16 11:23:02 - Client Error
+06-05-16 11:23:04 - No Server connection!
+06-05-16 11:23:04 - Connecting
+06-05-16 11:23:05 - Client Error
+06-05-16 11:23:07 - No Server connection!
+06-05-16 11:23:07 - Connecting
+06-05-16 11:23:08 - Client Error
+06-05-16 11:23:10 - No Server connection!
+06-05-16 11:23:10 - Connecting
+06-05-16 11:23:11 - Client Error
+06-05-16 11:23:13 - No Server connection!
+06-05-16 11:23:13 - Connecting
+06-05-16 11:23:14 - Client Error
+06-05-16 11:23:16 - No Server connection!
+06-05-16 11:23:16 - Connecting
+06-05-16 11:23:17 - Client Error
+06-05-16 11:23:19 - No Server connection!
+06-05-16 11:23:19 - Connecting
+06-05-16 11:23:20 - Client Error
+06-05-16 11:23:22 - No Server connection!
+06-05-16 11:23:22 - Connecting
+06-05-16 11:23:23 - Client Error
+06-05-16 11:23:25 - No Server connection!
+06-05-16 11:23:25 - Connecting
+06-05-16 11:23:26 - Client Error
+06-05-16 11:23:28 - No Server connection!
+06-05-16 11:23:28 - Connecting
+06-05-16 11:23:29 - Client Error
+06-05-16 11:23:31 - No Server connection!
+06-05-16 11:23:31 - Connecting
+06-05-16 11:23:32 - Client Error
+06-05-16 11:23:34 - No Server connection!
+06-05-16 11:23:34 - Connecting
+06-05-16 11:23:35 - Client Error
+06-05-16 11:23:37 - No Server connection!
+06-05-16 11:23:37 - Connecting
+06-05-16 11:23:38 - Client Error
+06-05-16 11:23:40 - No Server connection!
+06-05-16 11:23:40 - Connecting
+06-05-16 11:23:41 - Client Error
+06-05-16 11:23:43 - No Server connection!
+06-05-16 11:23:43 - Connecting
+06-05-16 11:23:44 - Client Error
+06-05-16 11:23:46 - No Server connection!
+06-05-16 11:23:46 - Connecting
+06-05-16 11:23:47 - Client Error
+06-05-16 11:23:49 - No Server connection!
+06-05-16 11:23:49 - Connecting
+06-05-16 11:23:50 - Client Error
+06-05-16 11:23:52 - No Server connection!
+06-05-16 11:23:52 - Connecting
+06-05-16 11:23:53 - Client Error
+06-05-16 11:23:55 - No Server connection!
+06-05-16 11:23:55 - Connecting
+06-05-16 11:23:56 - Client Error
+06-05-16 11:23:58 - No Server connection!
+06-05-16 11:23:58 - Connecting
+06-05-16 11:23:59 - Client Error
+06-05-16 11:24:01 - No Server connection!
+06-05-16 11:24:01 - Connecting
+06-05-16 11:24:02 - Client Error
+06-05-16 11:24:04 - No Server connection!
+06-05-16 11:24:04 - Connecting
+06-05-16 11:24:05 - Client Error
+06-05-16 11:24:07 - No Server connection!
+06-05-16 11:24:07 - Connecting
+06-05-16 11:24:08 - Client Error
+06-05-16 11:24:10 - No Server connection!
+06-05-16 11:24:10 - Connecting
+06-05-16 11:24:11 - Client Error
+06-05-16 11:24:13 - No Server connection!
+06-05-16 11:24:13 - Connecting
+06-05-16 11:24:14 - Client Error
+06-05-16 11:24:16 - No Server connection!
+06-05-16 11:24:16 - Connecting
+06-05-16 11:24:17 - Client Error
+06-05-16 11:24:19 - No Server connection!
+06-05-16 11:24:19 - Connecting
+06-05-16 11:24:20 - Client Error
+06-05-16 11:24:22 - No Server connection!
+06-05-16 11:24:22 - Connecting
+06-05-16 11:24:23 - Client Error
+06-05-16 11:24:25 - No Server connection!
+06-05-16 11:24:26 - Connecting
+06-05-16 11:24:27 - Client Error
+06-05-16 11:24:28 - No Server connection!
+06-05-16 11:24:29 - Connecting
+06-05-16 11:24:30 - Client Error
+
+06-05-16 11:26:45 - Connecting
+06-05-16 11:26:45 - Connected
+06-05-16 11:26:48 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:26:48 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:48 - GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:49 - GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:49 - GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:49 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-16 11:26:50 - GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:53 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:54 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:55 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:56 - GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:57 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:58 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:26:59 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:00 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:01 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:03 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+
+06-05-16 11:27:44 - Connecting
+06-05-16 11:27:44 - Connected
+06-05-16 11:27:46 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:27:46 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>AOI@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>Cover Clinching@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>HT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>Cold Chamber@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETDT<|>FT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:46 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-16 11:27:47 - GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:27:47 - GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>ICT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>Conformal Coating@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>Curing Oven@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>Thermal Pasting@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>HSS@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>Cover Clinching@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>HT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>Cold Chamber@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETDT<|>FT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:27:47 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-16 11:27:47 - GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:11 - GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:12 - GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:15 - GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:28:18 - GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>ICT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>Conformal Coating@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>Curing Oven@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>Thermal Pasting@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>HSS@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>Cover Clinching@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>HT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>Cold Chamber@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETDT<|>FT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:18 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+06-05-16 11:28:18 - GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@RUNNING,::AOI@RUNNING,::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:28:19 - GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>Selective Soldering@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>AOI@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>Flashing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>ICT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>Conformal Coating@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>Curing Oven@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>Thermal Pasting@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>HSS@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>Cover Clinching@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>HT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>Cold Chamber@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETDT<|>FT@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:28:19 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS
+
+06-05-16 11:39:58 - Connecting
+06-05-16 11:39:58 - Connected
+06-05-16 11:40:00 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:40:00 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 11:41:46 - Connecting
+06-05-16 11:41:46 - Connected
+06-05-16 11:41:48 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:41:48 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 11:43:29 - Connecting
+06-05-16 11:43:29 - Connected
+06-05-16 11:43:30 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:43:31 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-16 11:43:32 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 11:43:35 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+06-05-16 11:43:36 - GETDT<|>AOI@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 11:43:37 - GETDT<|>Flashing@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:43:37 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:43:38 - GETDT<|>Conformal Coating@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:43:38 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+06-05-16 11:43:39 - GETDT<|>Thermal Pasting@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+
+06-05-16 11:44:21 - Connecting
+06-05-16 11:44:21 - Connected
+06-05-16 11:44:22 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:44:23 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-16 11:44:30 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+
+06-05-16 11:45:52 - Connecting
+06-05-16 11:45:52 - Connected
+06-05-16 11:45:54 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:45:54 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-16 11:45:55 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+
+06-05-16 11:47:20 - Connecting
+06-05-16 11:47:20 - Connected
+06-05-16 11:47:22 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 11:48:58 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 13:42:55 - Connecting
+06-05-16 13:42:55 - Connected
+06-05-16 13:42:57 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 13:42:57 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 13:43:23 - Connecting
+06-05-16 13:43:23 - Connected
+06-05-16 13:43:25 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 13:43:25 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 13:43:39 - Connecting
+06-05-16 13:43:39 - Connected
+06-05-16 13:43:40 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 13:43:41 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+
+06-05-16 14:32:04 - Connecting
+06-05-16 14:32:04 - Connected
+06-05-16 14:32:06 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 14:32:07 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-16 14:32:08 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+06-05-16 14:32:13 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+
+06-05-16 14:32:54 - Connecting
+06-05-16 14:32:54 - Connected
+06-05-16 14:32:56 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 14:32:56 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-16 14:32:56 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+
+06-05-16 14:33:19 - Connecting
+06-05-16 14:33:19 - Connected
+06-05-16 14:33:20 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@BREAKDOWN,160222101321::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+06-05-16 14:33:43 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+06-05-16 14:33:43 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+
+06-05-16 16:22:53 - Connecting
+06-05-16 16:22:54 - Client Error
+06-05-16 16:22:56 - Error in Connecting
+06-05-16 16:22:56 - No Server connection!
+06-05-16 16:22:56 - Connecting
+
+07-05-16 07:31:46 - Connecting
+07-05-16 07:31:47 - Connected
+07-05-16 07:31:50 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+07-05-16 07:31:51 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+07-05-16 07:31:52 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+07-05-16 07:31:56 - GETLINECONFIG<|>MDPS L2<|>ACK<|>Connector Screwing@RUNNING,::Selective Soldering@BREAKDOWN,160223093611::AOI@RUNNING,::Flashing@BREAKDOWN,160223170834::ICT@BREAKDOWN,160223092541::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@BREAKDOWN,160215100521::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+07-05-16 07:31:57 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+07-05-16 07:31:57 - GETDT<|>Connector Screwing@MDPS L2<|>ACK<|>RUNNING::0::0::0::0
+07-05-16 07:32:03 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+07-05-16 07:32:04 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+07-05-16 07:32:04 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+
+10-05-16 08:16:04 - Connecting
+10-05-16 08:16:04 - Connected
+10-05-16 08:16:06 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+10-05-16 08:16:08 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+10-05-16 08:16:08 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+10-05-16 08:22:56 - GETDT<|>ICT@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+10-05-16 08:22:58 - GETDT<|>AOI@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-16 08:23:01 - GETDT<|>Curing Oven@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+10-05-16 08:23:04 - GETDT<|>HSS@MDPS L1<|>ACK<|>RUNNING::0::0::0::0
+10-05-16 08:23:06 - GETDT<|>AOI@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-16 08:23:09 - GETDT<|>Selective Soldering@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-16 08:23:12 - GETDT<|>AOI@MDPS L1<|>ACK<|>UNDER ANALYSIS::0::0::0::0
+10-05-16 08:23:14 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+10-05-16 08:23:17 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+10-05-16 08:23:18 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+10-05-16 08:23:18 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+
+11-05-16 10:53:17 - Connecting
+11-05-16 10:53:17 - Connected
+11-05-16 10:53:19 - GETLINECONFIG<|>MDPS L1<|>ACK<|>Connector Screwing@BREAKDOWN,160218045836::Selective Soldering@UNDER ANALYSIS,160223205519;160223212555::AOI@UNDER ANALYSIS,160222101321;160506170351::Flashing@RUNNING,::ICT@RUNNING,::Conformal Coating@RUNNING,::Curing Oven@RUNNING,::Thermal Pasting@RUNNING,::HSS@RUNNING,::Cover Clinching@RUNNING,::HT@RUNNING,::Cold Chamber@RUNNING,::FT@RUNNING,
+11-05-16 10:53:20 - GETEXP<|>ACK<|>HOD,Testing-NonClusters,Testing-Analysis,Camline,Testing-ICT,Testing-Cluster,Testing-Support,Maintenance,Quality,Warehouse,SQM,Process-IE,Production,NPL-MDPS,Logistic,SMT-Production,Backflush
+11-05-16 10:53:21 - GETDT<|>Connector Screwing@MDPS L1<|>ACK<|>BREAKDOWN::0::0::0::0
+
